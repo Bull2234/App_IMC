@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="imc">IMC</string>
+    <string name="peso_kg">peso_kg</string>
+</resources>

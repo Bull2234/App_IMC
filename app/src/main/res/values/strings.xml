@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TallerAplicacion</string>
+    <string name="resultado_de_su_imc">RESULTADO DE SU IMC</string>
+    <string name="su_imc_es">Su IMC es:</string>
+    <string name="calcular_imc">CALCULAR IMC</string>
+    <string name="estatura">ESTATURA</string>
+    <string name="imc">IMC</string>
+    <string name="peso">PESO</string>
+    <string name="usted_tiene">Usted Tiene</string>
+    <string name="calculoimc" />
+    <string name="calculo_imc">Calculo IMC</string>
+    <string name="estatura_cm">Estatura (cm)</string>
+    <string name="es_importante_que_recuerde_introducir_su_altura_en_cent_metros_en_lugar_de_en_metros_en_la_casilla_de_altura_de_esta_forma_si_mide_1_70_metros_deber_escribir_170_en_el_cuadro_de_altura">Es importante que recuerde introducir su altura en centímetros en lugar de en metros en la casilla de altura. De esta forma, si mide 1.70 metros, deberá escribir 170 en el cuadro de altura.</string>
+</resources>
